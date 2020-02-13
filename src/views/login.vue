@@ -15,7 +15,8 @@
             <div class="item">
               <input type="password" placeholder="密码" class="input" v-model="password"/>
             </div>
-            <div class="button" @click="login()">登录</div>
+            <!-- <div class="button" @click="login()">登录</div> -->
+            <div class="button" style="background:#ccc;">登录</div>
           </div>
           <div class="other">
             <div class="register" @click="toPage('/register')">免费注册</div>
