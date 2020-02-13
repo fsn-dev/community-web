@@ -81,7 +81,7 @@ export default {
     githubLogin() {
       const client_id = "1b537f502b9e647a9f82";
       const authorize_uri = "https://github.com/login/oauth/authorize";
-      const redirect_uri = "http://www.yunzhongyan.xyz:8688/oauth/redirect";
+      const redirect_uri = "https://fsn.dev/oauth/redirect";
       window.location.href = `${authorize_uri}?client_id=${client_id}&redirect_uri=${redirect_uri}`;
     }
   },
