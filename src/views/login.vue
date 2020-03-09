@@ -19,7 +19,8 @@
             <div class="button" style="background:#ccc;">登录</div>
           </div>
           <div class="other">
-            <div class="register" @click="toPage('/register')">免费注册</div>
+            <!--<div class="register" @click="toPage('/register')">免费注册</div>-->
+            <div class="register"style="color:#999">免费注册</div>
             <div class="forget" @click="toPage('/forgetPassword')">忘记密码</div>
           </div>
           <div class="link">

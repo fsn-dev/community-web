@@ -107,7 +107,7 @@
         </div>
         <div class="col">
             <div class="line line1">开发</div>
-            <div class="line"><a target="_blank" href="https://github.com/FUSIONFoundation/efsn">github源码</a></div>
+            <div class="line"><a target="_blank" href="https://github.com/FUSIONFoundation/efsn">Github源码</a></div>
             <div class="line"><a target="_blank" href="https://github.com/fsn-dev/dcrm-sdk">DCRM-SDK</a></div>
             <div class="line"><a target="_blank" href="https://api.fusionnetwork.io/">在线API</a></div>
             <div class="line"><a target="_blank" href="https://www.fusion.org/developers/bug-bounty">漏洞奖励</a></div>
@@ -115,10 +115,10 @@
         </div>
         <div class="col">
             <div class="line line1">社区链接</div>
-            <div class="line"><a target="_blank" href="https://github.com/FUSIONFoundation">github</a></div>
-            <div class="line"><a target="_blank" href="https://twitter.com/FUSIONProtocol">twitter</a></div>
-            <div class="line"><a target="_blank" href="https://t.me/FsnDevCommunity">telegram</a></div>
-            <div class="line"><a target="_blank" href="https://medium.com/@fusionprotocol">medium</a></div>
+            <div class="line"><a target="_blank" href="https://github.com/FUSIONFoundation">Github</a></div>
+            <div class="line"><a target="_blank" href="https://twitter.com/FUSIONProtocol">Twitter</a></div>
+            <div class="line"><a target="_blank" href="https://t.me/FsnDevCommunity">Telegram</a></div>
+            <div class="line"><a target="_blank" href="https://medium.com/@fusionprotocol">Medium</a></div>
         </div>
     </div>
 </div>
