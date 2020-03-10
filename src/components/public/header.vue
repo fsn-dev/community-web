@@ -17,7 +17,7 @@
             <span @click="showLogin()">登陆</span>
             <span>|</span>
             <!--<span @click="showRegister()">注册</span>-->
-            <span style="color:#999">注册</span>
+            <span style="color:#ccc !important">注册</span>
         </div>
         <div class="lang" @click="exitLogin()" v-if="$store.state.loginStatus * 1">
             <span>退出</span>
